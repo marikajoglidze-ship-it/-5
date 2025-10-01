@@ -1,0 +1,13 @@
+.iveria-nav{
+background-color: rgb(213, 72, 72);
+color: white; text-align: center; }
+
+.iveria-nav a{text-decoration: none;
+color: rgb(244, 238, 238); 
+ }
+
+ .iveria-nav li{display: inline-block; 
+margin: 10px; padding: 10px; 
+}
+
+.ivlogo{margin-left: 230px; margin-top: 10px;}
