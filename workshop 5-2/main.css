@@ -1,0 +1,14 @@
+.slogo{margin-left: 0px;
+margin-top: 15px;
+width: 360px;}
+.spaa{ background-color: rgb(102, 214, 224);}
+.hanoverspa{ text-align: center; background-color: rgb(59, 184, 184)
+} 
+
+.hanoverspa li {display: inline;
+margin: 10px; padding: 20px; }
+
+.hanoverspa a{text-decoration: none; color: white;}
+.bodi2{text-align: center; background-color: rgb(213, 237, 237);
+ margin-left: 90px; 
+margin-right: 90px; }
